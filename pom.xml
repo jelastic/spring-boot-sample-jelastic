@@ -32,6 +32,11 @@
 			<artifactId>hibernate-validator</artifactId>
 			<version>6.0.10.Final</version>
 		</dependency>
+		<dependency>
+			<groupId>jakarta.validation</groupId>
+			<artifactId>jakarta.validation-api</artifactId>
+			<version>3.0.2</version>
+		</dependency>
 		<!-- Compile -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
